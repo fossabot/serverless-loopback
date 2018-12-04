@@ -1,5 +1,6 @@
 # serverless-loopback
-[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com) <!-- Skipping tests for now [![Build Status](https://travis-ci.org/botbits/serverless-loopback.svg?branch=master)](https://travis-ci.org/botbits/serverless-loopback) --> [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/botbits/serverless-loopback/master/LICENSE) <!-- Codacy does not support any language in this project. [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3988cecd1c154bb99c310fb77bbc1ae9)](https://www.codacy.com/app/marcelobern/serverless-loopback?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=botbits/serverless-loopback&amp;utm_campaign=Badge_Grade) -->
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarcelobern%2Fserverless-loopback.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarcelobern%2Fserverless-loopback?ref=badge_shield)
+<!-- Skipping tests for now [![Build Status](https://travis-ci.org/botbits/serverless-loopback.svg?branch=master)](https://travis-ci.org/botbits/serverless-loopback) --> [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/botbits/serverless-loopback/master/LICENSE) <!-- Codacy does not support any language in this project. [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3988cecd1c154bb99c310fb77bbc1ae9)](https://www.codacy.com/app/marcelobern/serverless-loopback?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=botbits/serverless-loopback&amp;utm_campaign=Badge_Grade) -->
 
 A sample [loopback](https://loopback.io/) application deployed to AWS Lambda using [serverless](https://serverless.com/).
 
@@ -91,3 +92,6 @@ Serverless Error ---------------------------------------
 ## License
 
 MIT © [BotBits<sup>SM</sup>](https://github.com/botbits)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarcelobern%2Fserverless-loopback.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarcelobern%2Fserverless-loopback?ref=badge_large)
